@@ -70,3 +70,6 @@ build-iPhoneSimulator/
 # .rubocop-https?--*
 
 # End of https://www.toptal.com/developers/gitignore/api/jekyll,ruby
+
+# Except the build folder within the Unity subfolder
+!Unity/RunningCat/build/
